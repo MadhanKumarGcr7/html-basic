@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html style="background-color: black;">
+<center>
+<head>
+    <h1>Upcoming Events
+        <img src="img/date.png" height="30px"> 
+        
+    </h1>
+    <title>Events</title>
+    <link rel="icon" href="img/date.png">
+    <h5>Dont miss any of the important date </h5>
+    <hr>
+</head>
+<body>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia sunt recusandae pariatur at praesentium, distinctio voluptatibus, aliquam illo, suscipit odio esse id ut ullam. Perferendis, sint dolores. Explicabo rem rerum quidem aliquid quam velit illum, laboriosam asperiores odio porro harum sunt quo architecto officia soluta! Delectus earum repudiandae asperiores amet corrupti incidunt quam animi eos, est blanditiis iusto voluptas nulla illo quod veniam voluptates deleniti quasi quas non libero similique eius. Quibusdam eos, labore quasi, ratione placeat doloribus iusto laudantium inventore tenetur quia reiciendis, voluptatibus itaque sunt similique dicta perspiciatis iure nam. Asperiores neque adipisci quisquam, quas numquam at aut.</p>
+    <img src="img/event1.png" alt="">
+    <h3>Photo Gallery Event</h3>
+    <p>Free deleviery|Free food|Pets are not allowed</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque dignissimos consequuntur rem, nemo dolorem incidunt odit. Quibusdam asperiores eos, accusamus labore nihil, doloremque vel qui ducimus inventore, temporibus ea nobis!</p>
+    <img src="img/event2.png" alt="">
+    <br>
+    <a href="https://www.bing.com/ck/a?!&&p=bf58584491c7e25f9ec3f5855a0a1b728671b84054c0b308a8c0c030202d4d11JmltdHM9MTc0MTEzMjgwMA&ptn=3&ver=2&hsh=4&fclid=15b6b9d9-ccc9-6a28-2d10-acffcd646b64&psq=myntra&u=a1aHR0cHM6Ly93d3cubXludHJhLmNvbS8&ntb=1">Fasion Store</a>
+    <hr>
+</body></center>
+</html>
+<style>
+    h1,h5{
+        color: white;
+    }
+
+    p{
+        color: white;
+    }
+    h3{
+        color: white;
+    }
+</style>
